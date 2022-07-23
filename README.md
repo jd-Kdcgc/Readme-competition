@@ -5,12 +5,20 @@
   <strong>Student Chapter Excellence Award 2021</strong>
 </div>
 
+## Table of Contents 🗂️
+- [About Us 🧑‍💼](#about-us)
+- [Our Sponsors 💰](#our-sponsors)
+- [Renowned Researchers/ Professionals from 🏫](#renowned-researchers--professionals-from)
+- [Industry Professionals from 👩‍💻](#industry-professionals-from)
+- [Our Office Bearers 🧑‍💼](#our-office-bearers)
+- [Contact Us 📱](#contact-us)
 
-
-## About Us 🧑‍💼
+## About Us
 GGSIP University USS ACM Student Chapter is an official student body incepted in 2019 under the University School USICT, GGSIPU. The chapter will conduct events including programming contests, talks by renowned speakers, workshops etc.which give the students an exposure to the competitive computing world as well as allow them to understand the advancements going on in the computing sphere worldwide.
 
-## Our Sponsors 💰
+<img src = "https://github.com/jd-Kdcgc/Readme-competition/blob/main/carousel-img-2.jpeg">
+
+## Our Sponsors 
 <table>
   <tr>
     <td>
@@ -22,7 +30,7 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
    </tr>
  </table>
  
- ## Renowned Researchers/ Professionals from 🏫
+ ## Renowned Researchers/ Professionals from
  <table>
   <tr>
     <td>
@@ -34,7 +42,7 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
    </tr>
  </table>
  
- ## Industry Professionals from 👩‍💻
+ ## Industry Professionals from 
   <table>
   <tr>
     <td>
@@ -46,7 +54,7 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
    </tr>
  </table>
  
- ## Our Office Bearers 🧑‍💼
+ ## Our Office Bearers 
  <table>
   <tr>
     <td>
@@ -58,7 +66,7 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
    </tr>
  </table>
  
- ## Contact Us 📱
+ ## Contact Us 
  [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -74,3 +82,6 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
 [3]: https://plus.google.com/+CarlSednaoui
 [4]: http://carlsed.tumblr.com
  
+ <div align = "center">
+ <img src = "https://usict.acm.org/assets/images/outstanding-website.png">
+ </div>
