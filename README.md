@@ -8,6 +8,7 @@
 ## Table of Contents 🗂️
 - [About Us 🧑‍💼](#about-us)
 - [Our Sponsors 💰](#our-sponsors)
+- [Our Clubs 🤾‍♀️](#our-clubs)
 - [Renowned Researchers/ Professionals from 🏫](#renowned-researchers--professionals-from)
 - [Industry Professionals from 👩‍💻](#industry-professionals-from)
 - [Our Office Bearers 🧑‍💼](#our-office-bearers)
@@ -29,6 +30,17 @@ GGSIP University USS ACM Student Chapter is an official student body incepted in
      </td>
    </tr>
  </table>
+ 
+ ## Our Clubs
+ - DevSource
+ - XD
+ - enGame
+ - Innovate AI
+ - CyberChain
+ - ICPC
+ - Entrepreneurs’ Arena
+ - RobIOTics
+ - Research Cell
  
  ## Renowned Researchers/ Professionals from
  <table>
